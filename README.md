@@ -44,7 +44,7 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
   
     Program Experience: Python, SPSS, Qualtrics
-    Significance Analysis Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
+    Significance Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
     Two-Way ANOVA, Turkey Post Hoc
     IRB Certified Research Experiments: 3
     IRB Certified Research Proposals: 2
@@ -53,7 +53,7 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   ***Associate of Arts in Psychology***, **2018-2020**
   
     Program Experience: SPSS, Qualtrics, 
-    Significance Analysis Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
+    Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
 
   - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
