@@ -1,5 +1,5 @@
 # **Curriculum Vitae**- *Quantitative Researcher*
-Discovering a passion that combined my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
+Discovering a passion combining my *love for numbers, curiosity, and results* was a dream to reality. Actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
 
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
