@@ -60,13 +60,13 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
   - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
 ## Institutional Reports
-  ### Title
+  ### The Correlation Between Screen Time and Level of Social Anxiety in College Students ***CSU Stanislaus***
   description
   
-  ### Title
+  ### Lifetime Prison Sentence and Levels of Depression ***CSU Stanislaus***
   description
   
-  ### Title
+  ### Smartphones: The Connection College Students Make ***Modesto Junior College***
   description
 ## Job Experience :scroll:
   ### Amazon. Stockton, CA.
