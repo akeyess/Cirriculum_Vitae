@@ -54,7 +54,8 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   ### Smartphones: The Connection College Students Make 
 - ***Modesto Junior College***
   
-  - description
+  - Tested if people who use smartphones ( i.e. games, videos, email, text, calling, etc.) in social settings ( i.e. cafeteria, hallways, school events, etc.) will have fewer new connections than people who do not use cell phones in social situations. Participants (n=12) were questioned about phone use duration while at school as well as amount of new friends made on campus. A one-way ANOVA found no significant difference of new connections made among participants at the p<.05 level as
+determined by one way ANOVA [F(2,9) =0.642, p=0.548]. Visual analysis depicts a greater amount of friends made in participants with high smartphone useage compared to those with low smartphone useage.
   
   [Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
