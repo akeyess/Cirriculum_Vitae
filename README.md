@@ -58,7 +58,7 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
 
   - Find Studies - 
 
-## [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
+## Institutional Research Reports 📖
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
   ***California State University Stanislaus 2021***
   
@@ -71,6 +71,9 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
   
   ### Smartphones: The Connection College Students Make ***Modesto Junior College***
   description
+  
+  [Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
+  
 ## Job Experience :scroll:
   ### Amazon. Stockton, CA.
   ***Flex Associate***, **2022-Present**
