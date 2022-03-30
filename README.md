@@ -7,7 +7,7 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
     
   Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
   
-    Data Aggreagation, Quantitative Transformation, Statistical Analysis, 
+    Hypothesis Formation, Data Aggreagation, Quantitative Transformation, Statistical Analysis, 
     Data Visualization, Results Implications
     
   - Personal Running Research
