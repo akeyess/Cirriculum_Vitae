@@ -56,8 +56,6 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
     Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
 
-  - Find Studies - 
-
 ## Institutional Research Reports 📖
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
   ***California State University Stanislaus 2021***
