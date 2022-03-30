@@ -4,11 +4,10 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
+    Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my personal miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
     
-  Compares revenue from personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. This study discovered how my miner performs against the network average in terms of revenue. Findings fail to reject the hypotheis: "Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue".
-  
-    Hypothesis Formation, Data Aggreagation, Quantitative Transformation, Statistical Analysis, 
-    Data Visualization, Results Implications
+        - Hypothesis Formation - Data Aggreagation - Quantitative Transformation - Statistical Analysis
+        - Results Visualization - Discover Implications
     
   - Personal Running Research
   
@@ -57,9 +56,9 @@ Discovering a passion that combines my *love for numbers, curiosity, and results
     Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
 
-  - Find Studies - [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
+  - Find Studies - 
 
-## Institutional Reports
+## [Institutional Research Reports](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
   ***California State University Stanislaus 2021***
   
