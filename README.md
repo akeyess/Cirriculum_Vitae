@@ -58,8 +58,8 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
   
   [Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
-  ## Education :school:
-  ### California State University, Stanislaus. Turlock, CA.
+## Education :school:
+ ### California State University, Stanislaus. Turlock, CA.
   ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
   
     Program Experience: Python, SPSS, Qualtrics
