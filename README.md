@@ -15,7 +15,7 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
       - Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual
   
   ## Technical Skills :bookmark_tabs:
-| Name | About | Experience  |
+| Name | About | Experience |
 | ----------- | ----------- | ----------- |
 | ***SPSS*** | Input, Analysis, Export | 3 years |
 | ***Spreadsheets*** | Input, Transform, Analyze, Visualize, Export | 6 years |
@@ -27,18 +27,16 @@ Discovering a passion that combined my *love for numbers, curiosity, and results
 | ***Experimental Design*** | ABAB, A/B, Dependent Variable tested by Independent Variable, Control Variables | 4 years | 
   
   ## Soft Skills :performing_arts:
-  | Name | About |
-| ----------- | ----------- |
-| ***Team-Collaboration*** | Group Research, Task-Assignment, Constructive Criticism
-| ***Written & Verbal Communication*** | Research Reports, Project Presentation
-| ***Concise*** | Practice with many writing styles: Psychology, Philosophy, History, English
-| ***Grit*** | Calm under stressful situations
-| ***Reporting*** | Describe Tests, Clearly Depict Results: Analytically and Graphically
-| ***Inferencing*** | Find Importance, Tell Meaning, Relate To Similar Phenomenon
-| ***Researching*** | Curious, Knowledge Seeking
-| ***Time Management*** | Schedule Oriented, Understands Importance of Time
-| ***Responsibility*** | Leader Role, Captain in Research
-| ***Creativity*** | Outside the Box Thinking, Explorer
+  | Name | About | Experience |
+| ----------- | ----------- | ----------- |
+| ***Team-Collaboration*** | Group Research, Task-Assignment, Constructive Criticism | 4 years |
+| ***Written & Verbal Communication*** | Research Reports, Project Presentation | 8 years |
+| ***Concise*** | Practice with many writing styles: Psychology, Philosophy, History, English | 6 years |
+| ***Grit*** | Calm under stressful situations | 6 years |
+| ***Researching*** | Curious, Knowledge Seeking | 4 years |
+| ***Reporting*** | Describe Tests, Depict Results: Analytically and Graphically, Find Importance, Make Inferences, Relate To Similar Phenomenon| 4 years |
+| ***Responsibility*** | Leader Role, Captain in Research, Schedule Oriented | 6 years |
+| ***Creativity*** | Outside the Box Thinking, Explorer | 6 years |
 
 ## Institutional Research Reports 📖
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
