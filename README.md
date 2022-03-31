@@ -33,7 +33,7 @@
 | ***Written & Verbal Communication*** | Research Reports, Project Presentation | 8 years |
 | ***Concise*** | Practice with many writing styles: Psychology, Philosophy, History, English | 6 years |
 | ***Grit*** | Calm under stressful situations | 6 years |
-| ***Researching*** | Curious, Knowledge Seeking | 4 years |
+| ***Researching*** | Curious Knowledge Seeker | 4 years |
 | ***Reporting*** | Describe Tests, Depict Results: Analytically and Graphically, Find Importance, Make Inferences, Relate To Similar Phenomenon| 4 years |
 | ***Responsibility*** | Leader Role, Captain in Research, Schedule Oriented | 6 years |
 | ***Creativity*** | Outside the Box Thinking, Explorer | 6 years |
@@ -55,7 +55,7 @@
   - Tested if people who use smartphones ( i.e. games, videos, email, text, calling, etc.) in social settings ( i.e. cafeteria, hallways, school events, etc.) will have fewer new connections than people who do not use cell phones in social situations. Participants (n=12) were questioned about phone use duration while at school as well as amount of new friends made on campus. A one-way ANOVA found no significant difference of new connections made among participants at the p<.05 level as
 determined by one way ANOVA [F(2,9) =0.642, p=0.548]. Visual analysis depicts a greater amount of friends made in participants with high smartphone useage compared to those with low smartphone useage.
   
-  [Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
+  ©️ [Research Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
 ## Education :school:
  ### California State University, Stanislaus. Turlock, CA.
