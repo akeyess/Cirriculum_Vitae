@@ -1,5 +1,5 @@
 # **Curriculum Vitae**- *Quantitative Researcher*
-#### Discovering a passion combining my *love for numbers, curiosity, and results* was a dream brought into reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
+#### Discovering a passion aggregated of my *love for numbers, curiosity, and results* was a dream brought to reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
 
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
@@ -12,7 +12,7 @@
     
   - Personal Running Research
   
-    - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
+    - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I think I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
       - Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual
   
   ## Technical Skills :bookmark_tabs:
@@ -50,7 +50,7 @@
 - ***California State University, Stanislaus, 2021***
   ***Spring. "Experimental Methods and Design"***
   
-  - ***Research proposal*** investigating "*Does the duration of a life sentence impact a prisoner’s level of depression*?". Stratified sampling introduced in 4 prisons collecting 400 applicants total. A randomizer bot will pick 100 participants from each prison collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory will be used to measure symptoms of depression and severity of depression. The inventory will be adapted from the Beck Depression Inventory (BDI) and the Beck Hopelessness Scale. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
+  - ***Research proposal*** investigating "*Does the duration of a life sentence impact a prisoner’s level of depression*?". ***Stratified sampling*** introduced in 4 prisons collecting 400 applicants total. A randomizer bot will pick 100 participants from each prison, collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory will be used to measure symptoms of depression and severity of depression. The inventory will be adapted from the *Beck Depression Inventory (BDI) and the Beck Hopelessness Scale*. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
     
   ### Smartphones: The Connection College Students Make 
 - ***Modesto Junior College, 2020***
@@ -91,7 +91,7 @@
   ***Lot Associate***, **2020-2022**
   
   1. *Discover innovations* in safety, efficiency, and energy through observational analysis.
-  2. B2C role, experience directly assisting customers
+  2. B2C role, experience *directly assisting customers*
   3. Keep track and estimate needs of departments to fulfill each
     
   ### Wendy's. Modesto, CA.
