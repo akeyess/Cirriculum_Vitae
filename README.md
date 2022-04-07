@@ -4,16 +4,18 @@
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
-    - Compares personal Ethereum miner revenue to the reported average revenue of miners relative to megahash. Discovered how personal miner performs against the network average in terms of revenue. ***Findings fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
+    - Compares revenue of personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how personal miner performs against the network average in terms of revenue. ***Findings fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
     
-      -   Hypothesis Formation - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
+      ***-EXPERIENCE-*** Hypothesis Formation - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
       Discover Implications
-      - SPSS, Google Sheets, Microsoft Excel, Python
+      
+      ***-SOFTWARE-*** SPSS, Google Sheets, Microsoft Excel, Python
     
   - Personal Running Research
   
     - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I think I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
-      - Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual
+    
+      ***-EXPERIENCE-*** Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual
   
   ## Technical Skills :bookmark_tabs:
 | Name | About | Experience |
