@@ -20,7 +20,7 @@
   ## Technical Skills :bookmark_tabs:
 | Name | About | Experience |
 | ----------- | ----------- | ----------- |
-| ***SPSS*** | Input, Analysis, Export | 3 years |
+| ***SPSS*** | Input, Test, Analyze, Export | 3 years |
 | ***Spreadsheets*** | Input, Transform, Analyze, Visualize, Export | 6 years |
 | ***Python*** | Numpy, Matplotlib | 1 year |
 | ***Qualtrics*** | Create Online Experiment, Publish, Collect and Export Results | 3 years |
