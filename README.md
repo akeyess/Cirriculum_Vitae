@@ -48,7 +48,7 @@
   
   - Study exploring the relationship between total screen time using electronic media and levels of social anxiety. All participants (n=39) were psychology undergraduate students from a research seminar class. *Screen time was assessed in hours per week*, while *social anxiety used the Liebowitz Social Anxiety Scale*. ***A Pearson’s Correlation in SPSS*** found the results were not significant. ***The results did not support our hypothesis*** of participants’ screen time and level of social anxiety being correlated. Future research on this topic should include a survey measuring depression levels, as well as types of technological screens used.
 
-      ***-EXPERIENCE-*** Group Collaboration - Literature Review - Survey Creation - Qualitative Data Collection - Quantitative Analysis - Report Writing - Describe and Infer Results
+      ***-EXPERIENCE-*** *Group Collaboration - Literature Review - Survey Creation - Qualitative Data Collection - Quantitative Analysis - Report Writing - Describe and Infer Results*
       
       ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
     
