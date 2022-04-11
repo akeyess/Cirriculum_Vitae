@@ -4,7 +4,7 @@
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
-    - Compares revenue of personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how personal miner performs against the network average in terms of revenue. ***Findings fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
+    - A study comparing the revenue of my personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how the personal miner performs against the network average in terms of revenue, slightly under. As expected, ***findings fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
     
       ***-EXPERIENCE-*** *Hypothesis Formation - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
       Discover Implications*
