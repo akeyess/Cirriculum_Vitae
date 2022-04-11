@@ -13,7 +13,7 @@
     
   - Personal Running Research
   
-    - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I think I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. I believe over the past 6 month we will see a slow down in easy running pace to correlate with an increase in workout performance.
+    - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I think I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. ***I believe over the past 6 months we will see a slow down in easy running pace correlate with an increase in workout performance***.
     
       ***-EXPERIENCE-*** *Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual*
   
@@ -41,6 +41,25 @@
 | ***Responsibility*** | Leader Role, Captain in Research, Schedule Oriented | 6 years |
 | ***Creativity*** | Outside the Box Thinking, Explorer | 6 years |
 
+
+## Education :school:
+ ### California State University, Stanislaus. Turlock, CA.
+  ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
+  
+    Program Experience: Python, SPSS, Qualtrics
+    Significance Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
+    Two-Way ANOVA, Turkey Post Hoc
+    IRB Certified Research Experiments: 3
+    IRB Certified Research Proposals: 2
+    Social Sciences: Social Psychology, Perception, Cognitive Studies, Psychological Testing
+    
+  ### Modesto Junior College. Modesto, CA.
+  ***Associate of Arts in Psychology***, **2018-2020**
+  
+    Program Experience: SPSS, Qualtrics
+    Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
+    IRB Certified Research Experiments: 1
+    Social Sciences: Human Lifespan Development, Psychology of Gender, Neuroscience
 ## Institutional Research Reports 📖
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
 - ***California State University, Stanislaus, 2021***
@@ -73,25 +92,6 @@
       ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
     
   ©️ [Research Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
-
-## Education :school:
- ### California State University, Stanislaus. Turlock, CA.
-  ***Bachelor of Arts in Experimental Psychology***, **2020-2022**
-  
-    Program Experience: Python, SPSS, Qualtrics
-    Significance Tests: Independent Samples T-Test, Pearson's Correlation Coefficient, Regression,
-    Two-Way ANOVA, Turkey Post Hoc
-    IRB Certified Research Experiments: 3
-    IRB Certified Research Proposals: 2
-    Social Sciences: Social Psychology, Perception, Cognitive Studies, Psychological Testing
-    
-  ### Modesto Junior College. Modesto, CA.
-  ***Associate of Arts in Psychology***, **2018-2020**
-  
-    Program Experience: SPSS, Qualtrics
-    Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
-    IRB Certified Research Experiments: 1
-    Social Sciences: Human Lifespan Development, Psychology of Gender, Neuroscience
 
 ## Job Experience :scroll:
   ### Amazon. Stockton, CA.
