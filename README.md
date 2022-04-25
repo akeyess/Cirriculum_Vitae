@@ -45,12 +45,12 @@
 | ----------- | ----------- | ----------- |
 | ***SPSS*** | Input, Test, Analyze, Export | 3 years |
 | ***Spreadsheets*** | Input, Transform, Analyze, Visualize, Export | 6 years |
-| ***Python*** | Numpy, Matplotlib | 1 year |
+| ***Python*** | Numpy, Matplotlib, Seaborn | 1 year |
 | ***Qualtrics*** | Create Online Experiment, Publish, Collect and Export Results | 3 years |
 | ***Statistical Tests of Significance*** | T-Tests: 'One-Sample, Two-Sample, Independent', ANOVA: 'One-Way, Two-Way', Regression, Pearson's Correlation Coefficient, Turkey Post Hoc | 4 years |
-| ***Data Transformation*** | Fishing, Input, Manipulation, Visualization | 3 years |
+| ***Data Transformation*** | Import, Manipulation, Visualization, Export | 3 years |
 | ***Research Methods*** | Assessment Measures, Experiment Validity , Literature Reviews | 4 years |
-| ***Experimental Design*** | ABAB, A/B, Dependent Variable tested by Independent Variable, Control Variables | 4 years | 
+| ***Experimental Design*** | ABAB, A/B, Multiple Baseline Design, Control Variables | 4 years | 
   
   ## Soft Skills :performing_arts:
   | Name | About | Experience |
