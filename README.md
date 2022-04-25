@@ -1,12 +1,35 @@
 # **Curriculum Vitae**- *Quantitative Researcher*
-#### Discovering a passion aggregated of my *love for numbers, curiosity, and results* was a dream brought to reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal ASAP.
+#### Discovering a passion aggregated of my *love for numbers, curiosity, and results* was a dream brought to reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator***). I hope to add value to a group working towards the same goal as soon as possible.
 
+## Institutional Research Reports 📖
+  ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
+- ***California State University, Stanislaus, 2021***
+***Summer."Research Seminar in Social Psychology"***
+  
+  - Study exploring the relationship between total screen time using electronic media and levels of social anxiety. All participants (n=39) were psychology undergraduate students from a research seminar class. *Screen time was assessed in hours per week*, while *social anxiety used the Liebowitz Social Anxiety Scale*. ***A Pearson’s Correlation in SPSS*** found the results were not significant. ***The results did not support our hypothesis*** of participants’ screen time and level of social anxiety being correlated. Future research on this topic should include a survey measuring depression levels, as well as types of technological screens used.
+
+      ***-EXPERIENCE-*** *Group Collaboration - Literature Review - Survey Creation - Qualitative Data Collection - Data Transformation - Quantitative Analysis - Report Writing - Describe and Infer Results*
+      
+      ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
+    
+### Lifetime Prison Sentence and Levels of Depression 
+- ***California State University, Stanislaus, 2021***
+  ***Spring. "Experimental Methods and Design"***
+  
+  - ***Research proposal*** investigating the question "*Does the duration of a life sentence impact a prisoner’s level of depression*?". ***Stratified sampling*** will be introduced to 4 prisons, collecting 400 applicants total. A randomizer bot will pick 100 participants from each prison, collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory will be used to measure symptoms of depression and severity of depression. The inventory will be adapted from the *Beck Depression Inventory (BDI) and the Beck Hopelessness Scale*. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
+    
+      ***-EXPERIENCE-*** *Hypothesis Formation - Research Design - Create Measures for Variables - Statistical Tests of Significance - Remote Group-Work*
+      
+      ***-SOFTWARE-*** *Qualtrics - Google Drive Tools (Sheets, Docs, Slides, Forms) - Zoom*
+      
+  ©️ [Research Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
+  
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
-    - A study comparing the revenue of my personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how the personal miner performs against the network average in terms of revenue, slightly under. As expected findings ***fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
+    - A study comparing the revenue of a personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how the personal miner performs against the network average in terms of revenue, slightly under. As expected findings ***fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
     
-      ***-EXPERIENCE-*** *Hypothesis Formation - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
+      ***-EXPERIENCE-*** *Research Derived Answers - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
       Discover Implications*
       
       ***-SOFTWARE-*** *SPSS, Google Sheets, Microsoft Excel, Python*
@@ -60,38 +83,6 @@
     Significance Tests: One-Way ANOVA, T-Tests (One-Sample, Independent-Samples, Paired-Samples)
     IRB Certified Research Experiments: 1
     Social Sciences: Human Lifespan Development, Psychology of Gender, Neuroscience
-## Institutional Research Reports 📖
-  ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
-- ***California State University, Stanislaus, 2021***
-***Summer."Research Seminar in Social Psychology"***
-  
-  - Study exploring the relationship between total screen time using electronic media and levels of social anxiety. All participants (n=39) were psychology undergraduate students from a research seminar class. *Screen time was assessed in hours per week*, while *social anxiety used the Liebowitz Social Anxiety Scale*. ***A Pearson’s Correlation in SPSS*** found the results were not significant. ***The results did not support our hypothesis*** of participants’ screen time and level of social anxiety being correlated. Future research on this topic should include a survey measuring depression levels, as well as types of technological screens used.
-
-      ***-EXPERIENCE-*** *Group Collaboration - Literature Review - Survey Creation - Qualitative Data Collection - Quantitative Analysis - Report Writing - Describe and Infer Results*
-      
-      ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
-    
-### Lifetime Prison Sentence and Levels of Depression 
-- ***California State University, Stanislaus, 2021***
-  ***Spring. "Experimental Methods and Design"***
-  
-  - ***Research proposal*** investigating the question "*Does the duration of a life sentence impact a prisoner’s level of depression*?". ***Stratified sampling*** will be introduced to 4 prisons, collecting 400 applicants total. A randomizer bot will pick 100 participants from each prison, collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory will be used to measure symptoms of depression and severity of depression. The inventory will be adapted from the *Beck Depression Inventory (BDI) and the Beck Hopelessness Scale*. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
-    
-      ***-EXPERIENCE-*** *Research Design - Create Measures for Variables - Statistical Tests of Significance - Remote Group-Work*
-      
-      ***-SOFTWARE-*** *Qualtrics - Google Drive Tools (Sheets, Docs, Slides, Forms) - Zoom*
-      
-  ### Smartphones: The Connection College Students Make 
-- ***Modesto Junior College, 2020***
-  ***Spring. "Research Methods"***
-  
-  - Experiment *tesing if people who use smartphones ( i.e. games, videos, email, text, calling, etc.) in social settings ( i.e. cafeteria, hallways, school events, etc.) will have fewer new connections than people who do not use cell phones in social situations*. Participants (n=12) were questioned about phone use duration while at school as well as amount of new friends made on campus. A one-way ANOVA found no significant difference of new connections made among participants at the p<.05 level as determined by ***one way ANOVA [F(2,9) =0.642, p=0.548]***. Visual analysis depicts a greater amount of friends made in participants with high smartphone useage compared to those with low smartphone useage.
-  
-      ***-EXPERIENCE-*** *Hypothesis Formation - Problem Solving - Survey Creation - Data Transformation - Statistical Analysis - Clearly Discuss Findings*
-      
-      ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
-    
-  ©️ [Research Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
 
 ## Job Experience :scroll:
   ### Amazon. Stockton, CA.
