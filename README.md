@@ -89,20 +89,20 @@
   ***Flex Associate***, **2022-Present**
   
   1. *Attentive Product analysis* to find corresponding components (stickers, location)
-  2. Calculate where to allocate resources (pallets, NPCs, tubs)
-  3. *Group-oriented exposure*, assist in workflow operations
+  2. Calculate where to best allocate resources (pallets, NPCs, tubs)
+  3. *Group-oriented exposure*, assist in total workflow operations
   
   ### The Home Depot. Riverbank, CA.
   ***Lot Associate***, **2020-2022**
   
   1. *Discover innovations* in safety, efficiency, and energy through observational analysis.
-  2. B2C role, experience *directly assisting customers*
-  3. Keep track and estimate needs of departments to fulfill each
+  2. B2C role, experience *directly assisting customers inside and outside store*
+  3. Keep track and estimate needs of departments to fulfill shortages
     
   ### Wendy's. Modesto, CA.
   ***Customer Service***, **2018-2020**
   
-  1. Excellent, Happy, and Calm attitude interacting with customers
-  2. Full grip of workplace structure
-  3. *Responsibility of training* and communicating with new hires
+  1. Excellent, happy, and calm interactions with customers
+  2. Full grip of workplace structure 
+  3. *Responsibility of training* and helping new hires
 
