@@ -10,7 +10,7 @@
 
       ***-EXPERIENCE-*** *Group Collaboration - Literature Review - Survey Creation - Qualitative Data Collection - Data Transformation - Quantitative Analysis - Report Writing - Describe and Infer Results*
       
-      ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, Powerpoint, OutLook, OneDrive) - Zoom*
+      ***-SOFTWARE-*** *Qualtrics - SPSS - Microsoft Office 365 (Forums, Excel, Word, PowerPoint, Outlook, OneDrive) - Zoom*
     
 ### Lifetime Prison Sentence and Levels of Depression 
 - ***California State University, Stanislaus, 2021***
@@ -27,9 +27,9 @@
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
-    - A study comparing the revenue of a personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how the personal miner performs against the network average in terms of revenue, slightly under. As expected findings ***fail to reject the hypotheis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
+    - A study comparing the revenue of a personal Ethereum miner to the reported average revenue of Ethereum miners relative to megahash. Discovered how the personal miner performs against the network average in terms of revenue, slightly under. As expected findings ***fail to reject the hypothesis***: "**Personal ETH miner revenue will perform lower overall in comparison to reported average ETH mining revenue**".
     
-      ***-EXPERIENCE-*** *Research Derived Answers - Data Aggreagation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
+      ***-EXPERIENCE-*** *Research Derived Answers - Data Aggregation - Quantitative Transformation - Statistical Analysis - Results Visualization - 
       Discover Implications*
       
       ***-SOFTWARE-*** *SPSS, Google Sheets, Microsoft Excel, Python*
@@ -38,7 +38,7 @@
   
     - Future study to investigate if a relationship exists between workout performance and training run pace. In the past I think I did not respect easy days as much as I should have. As of recent months I have been slowing down easy training days and been feeling stronger when it comes to workout performance. ***I believe over the past 6 months we will see a slow down in easy running pace correlate with an increase in workout performance***.
     
-      ***-EXPERIENCE-*** *Problem Solving - Data Aggregation - Qualitative Analysis - Significance Test - Tableau Visual*
+      ***-EXPERIENCE-*** *Problem Solving - Data Manipulation - Qualitative Analysis - Significance Test - Tableau Visual*
   
   ## Technical Skills :bookmark_tabs:
 | Name | About | Experience |
@@ -88,7 +88,7 @@
   ### Amazon. Stockton, CA.
   ***Flex Associate***, **2022-Present**
   
-  1. *Product analysis* to find corresponding components (stickers, location)
+  1. *Attentive Product analysis* to find corresponding components (stickers, location)
   2. Calculate where to allocate resources (pallets, NPCs, tubs)
   3. *Group-oriented exposure*, assist in workflow operations
   
