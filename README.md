@@ -16,7 +16,7 @@
 - ***California State University, Stanislaus, 2021***
   ***Spring. "Experimental Methods and Design"***
   
-  - ***Research proposal*** investigating the question "*Does the duration of a life sentence impact a prisoner’s level of depression*?". ***Stratified sampling*** would be introduced to 4 prisons, collecting 400 applicants total. A randomizer bot chooses 100 participants from each prison, collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory measures symptoms of depression and severity of depression. The inventory will be adapted from the *Beck Depression Inventory (BDI) and the Beck Hopelessness Scale*. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
+  - ***Research proposal*** investigating "*Does the duration of a life sentence impact a prisoner’s level of depression*?". ***Stratified sampling*** would be introduced to 4 prisons, collecting 400 applicants. A randomizer bot chooses 100 participants from each prison, collecting an equal amount in four sentence-length groups: *0-9 years, 10-19 years, 20-29 years, and life sentence*. A 20 item self-report inventory measures symptoms of depression and severity of depression. The inventory will be adapted from the *Beck Depression Inventory (BDI) and the Beck Hopelessness Scale*. For inferential statistics, an ***analysis of variance (ANOVA)*** will determine if effects from length of incarceration on depression levels exists. If the ANOVA is significant, a ***Tukey post hoc test*** will determine differences between the groups. To conclude a relationship between incarceration and depression, ***a regression line and correlational test*** will find out the strength of correlation. A ***t-test*** will be run on the assessment results to evaluate if a significant difference exists between our participants, incarcerated individuals, and the general public, individuals not currently incarcerated.
     
       ***-EXPERIENCE-*** *Hypothesis Formation - Research Design - Create Measures for Variables - Statistical Tests of Significance - Remote Group-Work*
       
@@ -40,7 +40,7 @@
     
       ***-EXPERIENCE-*** *Problem Solving - Data Manipulation - Qualitative Analysis - Significance Test - Tableau Visual*
   
-  ## Technical Skills :bookmark_tabs:
+  ## Technical Skills ⌨️:
 | Name | About | Experience |
 | ----------- | ----------- | ----------- |
 | ***SPSS*** | Input, Test, Analyze, Export | 3 years |
