@@ -1,5 +1,5 @@
 # **Curriculum Vitae**- *Quantitative Researcher*
-#### Discovering a passion aggregated of my *love for numbers, curiosity, and results* was a dream brought to reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator, UX Research***). I hope to add value to a group working towards the same goal as soon as possible.
+#### Discovering a passion aggregated of a *love for numbers, curiosity, and results* was a dream brought into reality. I am actively looking to fulfil this dream through a *Data Science* related role (***Data Analytics, Research Analyst, Quantitative Science, Digital Marketing Coordinator, UX Research***). I hope to add value to a group working towards the same goal as soon as possible.
 
 ## Institutional Research Reports 📖
   ### The Correlation Between Screen Time and Level of Social Anxiety in College Students 
@@ -24,6 +24,32 @@
       
   ©️ [Research Publications](https://andrewkeyes2.wixsite.com/andrewkeyes/research)
   
+ 
+ ## Technical Skills ⌨️:
+| Name | About | Experience |
+| ----------- | ----------- | ----------- |
+| ***SPSS*** | Input, Test, Analyze, Export | 3 years |
+| ***Spreadsheets*** | Input, Transform, Analyze, Visualize, Export | 6 years |
+| ***Python*** | Numpy, Matplotlib, Seaborn | 1 year |
+| ***Qualtrics*** | Create Online Experiment, Publish, Collect and Export Results | 3 years |
+| ***Statistical Tests of Significance*** | T-Tests: 'One-Sample, Two-Sample, Independent', ANOVA: 'One-Way, Two-Way', Regression, Pearson's Correlation Coefficient, Turkey Post Hoc | 4 years |
+| ***Data Transformation*** | Import, Manipulation, Visualization, Export | 3 years |
+| ***Research Methods*** | Assessment Measures, Experiment Validity , Literature Reviews | 4 years |
+| ***Experimental Design*** | ABAB, A/B, Multiple Baseline Design, Control Variables | 4 years | 
+  
+
+## Soft Skills :performing_arts:
+  | Name | About | Experience |
+| ----------- | ----------- | ----------- |
+| ***Team-Collaboration*** | Group Research, Task-Assignment, Constructive Criticism | 4 years |
+| ***Written & Verbal Communication*** | Research Reports, Project Presentation, Remote Group-Projects | 8 years |
+| ***Concise*** | Practice with many Writing Styles: Psychology, Philosophy, History, English | 6 years |
+| ***Grit*** | Calm under Stressful Situations, Overcomes Adversity | 6 years |
+| ***Researching*** | Curious Knowledge Seeker, Question-Asking Problem-Solver | 4 years |
+| ***Reporting*** | Describe Tests, Depict Results: Analytically and Graphically, Find Importance, Make Inferences, Relate To Similar Phenomenon| 4 years |
+| ***Responsibility*** | Leader Role, Captain in Research, Schedule Oriented | 6 years |
+| ***Creativity*** | Outside the Box Thinking, Explorer | 6 years |
+
 ## Personal Projects :star2:
   - [Ethereum Mining Report](https://github.com/akeyess/Eth_Mining_Research)
     
@@ -40,30 +66,6 @@
     
       ***-EXPERIENCE-*** *Problem Solving - Data Manipulation - Qualitative Analysis - Significance Test - Tableau Visual*
   
-  ## Technical Skills ⌨️:
-| Name | About | Experience |
-| ----------- | ----------- | ----------- |
-| ***SPSS*** | Input, Test, Analyze, Export | 3 years |
-| ***Spreadsheets*** | Input, Transform, Analyze, Visualize, Export | 6 years |
-| ***Python*** | Numpy, Matplotlib, Seaborn | 1 year |
-| ***Qualtrics*** | Create Online Experiment, Publish, Collect and Export Results | 3 years |
-| ***Statistical Tests of Significance*** | T-Tests: 'One-Sample, Two-Sample, Independent', ANOVA: 'One-Way, Two-Way', Regression, Pearson's Correlation Coefficient, Turkey Post Hoc | 4 years |
-| ***Data Transformation*** | Import, Manipulation, Visualization, Export | 3 years |
-| ***Research Methods*** | Assessment Measures, Experiment Validity , Literature Reviews | 4 years |
-| ***Experimental Design*** | ABAB, A/B, Multiple Baseline Design, Control Variables | 4 years | 
-  
-  ## Soft Skills :performing_arts:
-  | Name | About | Experience |
-| ----------- | ----------- | ----------- |
-| ***Team-Collaboration*** | Group Research, Task-Assignment, Constructive Criticism | 4 years |
-| ***Written & Verbal Communication*** | Research Reports, Project Presentation, Remote Group-Projects | 8 years |
-| ***Concise*** | Practice with many Writing Styles: Psychology, Philosophy, History, English | 6 years |
-| ***Grit*** | Calm under Stressful Situations, Overcomes Adversity | 6 years |
-| ***Researching*** | Curious Knowledge Seeker, Question-Asking Problem-Solver | 4 years |
-| ***Reporting*** | Describe Tests, Depict Results: Analytically and Graphically, Find Importance, Make Inferences, Relate To Similar Phenomenon| 4 years |
-| ***Responsibility*** | Leader Role, Captain in Research, Schedule Oriented | 6 years |
-| ***Creativity*** | Outside the Box Thinking, Explorer | 6 years |
-
 
 ## Education :school:
  ### California State University, Stanislaus. Turlock, CA.
